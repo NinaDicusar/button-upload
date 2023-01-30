@@ -1,0 +1,27 @@
+.btn{
+    background-image: url(cloud\ svg..svg);
+    background-repeat: no-repeat;
+    background-size: 1em ;
+    background-position:0.5em 0.25em;
+
+    font-size: 1.5em;
+    padding: 0.25em 0.5em 0.25em 1.75em;
+    
+    border: .05em solid black;
+    border-radius: 2em;
+}
+.e-mail{
+    background-image: url(cloud\ svg..svg);
+    background-repeat: no-repeat;
+    background-size: 1em ;
+    background-position:0.5em 0.25em;
+text-decoration: none;
+
+    font-size: 1.5em;
+    font-family: sans-serif;
+    color: black;
+    padding: 0.25em 0.5em 0.25em 1.75em;
+    border: .05em solid black; 
+    border-radius: 2em;
+    
+}
